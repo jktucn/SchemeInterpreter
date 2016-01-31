@@ -1,0 +1,12 @@
+C:\Users\jktu\Desktop\prog2\bin\Debug\Scheme4101.exe
+C:\Users\jktu\Desktop\prog2\bin\Debug\Scheme4101.pdb
+C:\Users\jktu\Desktop\prog2\bin\Debug\SPP.dll
+C:\Users\jktu\Desktop\prog2\obj\x86\Debug\Scheme4101.csprojResolveAssemblyReference.cache
+C:\Users\jktu\Desktop\prog2\obj\x86\Debug\Scheme4101.exe
+C:\Users\jktu\Desktop\prog2\obj\x86\Debug\Scheme4101.pdb
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\obj\x86\Debug\Scheme4101.exe
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\obj\x86\Debug\Scheme4101.pdb
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\bin\Debug\Scheme4101.exe
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\bin\Debug\Scheme4101.pdb
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\bin\Debug\SPP.dll
+C:\jktu's_file\college\lsu\2015 fall\csc_4101\prog2\prog2\obj\x86\Debug\Scheme4101.csprojResolveAssemblyReference.cache
